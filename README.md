@@ -1,4 +1,4 @@
-## Welcome to Jeeesh Coding page
+## Welcome to Jeevesh Coding page
 
 
 # Tech Stack
